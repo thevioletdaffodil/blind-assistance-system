@@ -1,0 +1,9 @@
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+venv/
+.idea/
+logs/
+.DS_Store
+Thumbs.db
